@@ -104,7 +104,7 @@
     "better-docs": "~1.4.7",
     "child_process": "~1.0.2",
     "css-loader": "~3.6.0",
-    "enzyme": "~3.10.0",
+    "enzyme": "~3.11.0",
     "enzyme-adapter-react-16": "~1.15.2",
     "enzyme-to-json": "~3.4.4",
     "eslint": "~6.8.0",
