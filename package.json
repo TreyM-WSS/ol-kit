@@ -98,7 +98,7 @@
     "@testing-library/react": "~10.0.1",
     "babel-eslint": "~10.0.1",
     "babel-jest": "~24.9.0",
-    "babel-loader": "~8.0.6",
+    "babel-loader": "~8.1.0",
     "babel-plugin-inline-react-svg": "~1.1.0",
     "babel-plugin-module-resolver": "~3.2.0",
     "better-docs": "~1.4.7",
